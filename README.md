@@ -3,4 +3,4 @@
 # SemantiX
 
 ## Goal
-Keyword-based document search
+tbd
